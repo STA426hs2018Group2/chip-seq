@@ -1,3 +1,4 @@
+
 # chip-seq
 
 =======
@@ -10,3 +11,17 @@ It is mainly used
 - To map global binding sites for any protein of interest.
 - To identify the binding sites of DNA associated proteins.
 - To analyze protein interactions with DNA
+=======
+# ChIP-Seq
+
+
+
+## Statistics
+
+Software | Statistics
+---------|-----------
+[SICER](https://home.gwu.edu/~wpeng/Software.htm) | Clustering
+---------|-----------
+[permseq](https://github.com/keleslab/permseq/) | lasso, log-linear model, Dirichlet-multinomial regression model
+---------|-----------
+[hiddenDomains](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0991-z) | HMM, Gaussian
