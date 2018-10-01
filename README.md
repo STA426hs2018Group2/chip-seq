@@ -16,7 +16,7 @@ It is mainly used
 
 ## Statistics
 
-Software | Statistics
+|Software | Statistics|
 ---------|-----------
 [SICER](https://home.gwu.edu/~wpeng/Software.htm) | Clustering
 ---------|-----------
